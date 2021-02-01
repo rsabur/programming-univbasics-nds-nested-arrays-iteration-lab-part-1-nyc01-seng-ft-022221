@@ -10,8 +10,8 @@ def find_even_values(src)
         p src[count][inner_count]
       end
       inner_count += 1
-      end
-      count += 1
     end
+    count += 1
+  end
   src
 end
